@@ -3,3 +3,6 @@ git add %filename% - add filename changes
 git status - status of changes
 git rm --cached %fileneame% - remove filename from changes
 git commit -m "%comment%" - commit changes
+git checkout -b %branchname% - create new branch and switch to it
+git push - push repo to github
+git pull - pull repo from github
